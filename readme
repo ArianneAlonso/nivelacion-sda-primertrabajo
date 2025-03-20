@@ -1,1 +1,11 @@
-.
+requisitos:
+- Node.js (versión 14 o superior)
+- npm (gestor de paquetes de Node.js)
+
+comandos:
+git bash:
+git clone https://github.com/ArianneAlonso/nivelacion-sda-primertrabajo.git
+cd nivelacion-sda-primertrabajo
+
+npm i: Instala las dependencias del proyecto.
+npm start: Inicia el servidor en http://localhost:4000.
